@@ -1,6 +1,7 @@
 # Increasing-Counter
 
-Numbers increasing up to a certain limit.
+Numbers increasing up to a certain limit
+
 
 
 
